@@ -2,7 +2,7 @@
 
 ![Ambushfall's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambushfall&show_icons=true)
 
-[![Linkedin: LukaColic](https://img.shields.io/badge/-Luka%20Colic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luka-colic-7a2624192/)](https://www.linkedin.com/in/posquit0/)
+[![Linkedin: LukaColic](https://img.shields.io/badge/-Luka%20Colic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luka-colic-7a2624192/)](https://www.linkedin.com/in/luka-colic-7a2624192/)
 
 <!--
 **Ambushfall/Ambushfall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
