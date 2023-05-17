@@ -15,5 +15,5 @@
 - 💬 Ask me about anything.
 
 
-![Ambushfall's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambushfall&show_icons=true)
+[![Ambushfall's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambushfall&show_icons=true)]()
 <!-- - ⚡ Fun fact:  -->
