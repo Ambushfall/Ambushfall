@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Ambushfall's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambushfall&show_icons=true&theme=transparent)
+
 <!--
 **Ambushfall/Ambushfall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
